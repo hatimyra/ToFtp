@@ -1,8 +1,8 @@
 # ToFtp
 local transfer script
 
-**[Install FTP: proftpd server](https://github.com/hatimyra/ToFtp/edit/main/README.md#install-proftpd-on-server)**  
-**[StartUP FileTransfer](https://github.com/hatimyra/ToFtp/edit/main/README.md#settings-filetransfer)**
+**[Install FTP: proftpd server](https://github.com/hatimyra/ToFtp/blob/main/README.md#install-proftpd-on-server)**  
+**[StartUP FileTransfer](https://github.com/hatimyra/ToFtp/blob/main/README.md#settings-filetransfer)**
 
 
 # **Settings FileTransfer**
