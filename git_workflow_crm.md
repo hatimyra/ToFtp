@@ -60,16 +60,14 @@
 - Английский язык в описании, русский/английский в пояснении.
 - Если нужно пояснение — пустая строка и текст ниже:
 
-```text
 fix: handle null in login service (CRMT-99)
 
 When username is null, the service threw NullReferenceException.
 Added explicit null check and return BadRequest.
-```
 
 ---
 
-## 4. Полный цикл работы над задачей
+## 2. Полный цикл работы над задачей
 
 ### Шаг 1. Старт: создать ветку
 
